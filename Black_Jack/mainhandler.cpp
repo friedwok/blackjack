@@ -102,6 +102,7 @@ void MainHandler::Handle(int sym_read, std::list<int>::iterator& it, int fd, std
     }
 }
 
+//TODO: finish the game logic
 void MainHandler::HandleStateOne(int sym_read, std::list<int>::iterator &it, int fd, std::list<int> *players_list)
 {
     std::cout << "First handler started!" << std::endl;

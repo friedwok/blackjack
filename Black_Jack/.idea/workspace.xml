@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae540b8-344f-4c75-b000-2e50d9e8aab6" name="Default Changelist" comment="" />
+    <list default="true" id="4ae540b8-344f-4c75-b000-2e50d9e8aab6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Black_Jack_client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Black_Jack_saved/.idea/Black_Jack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainhandler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mainhandler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Black_Jack_client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Black_Jack_client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Black_Jack_client/client_processor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Black_Jack_client/client_processor.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aAGoeHl5pAEuEYP3sUaPExuREZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -70,6 +81,7 @@
       <workItem from="1586557937301" duration="11716000" />
       <workItem from="1586608741545" duration="12308000" />
       <workItem from="1586642101556" duration="9689000" />
+      <workItem from="1587918824316" duration="26000" />
     </task>
     <servers />
   </component>

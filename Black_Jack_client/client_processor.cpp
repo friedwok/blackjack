@@ -156,6 +156,7 @@ void Client_Processor::Process(char *buff, int len, int state)
     }
 }
 
+// TODO: finish the game logic
 void Client_Processor::Process_State_One(char *buff, int length, int state)
 {
     std::cout << "First process started" << std::endl;
