@@ -1,0 +1,3 @@
+/Users/pupsik/Desktop/cppdir/Black_Jack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pupsik/Desktop/cppdir/Black_Jack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pupsik/Desktop/cppdir/Black_Jack/cmake-build-debug/CMakeFiles/Black_Jack.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pupsik/Desktop/cppdir/Black_Jack_client/client_processor.cpp
+iostream
+-
+client_processor.h
+/Users/pupsik/Desktop/cppdir/Black_Jack_client/client_processor.h
+sys/types.h
+-
+unistd.h
+-
+sys/socket.h
+-
+boost/algorithm/string.hpp
+-
+string
+-
+vector
+-
+cstring
+-
+
+/Users/pupsik/Desktop/cppdir/Black_Jack_client/client_processor.h
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Black_Jack_client" targetName="Black_Jack_client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5032a6b7-496d-46d3-b6e9-ff92437d8a9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aAHgRJOwPqLXNQKXuhGYORPwna" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Black_Jack_client" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="8000" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Black_Jack_client" TARGET_NAME="Black_Jack_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Black_Jack_client" RUN_TARGET_NAME="Black_Jack_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5032a6b7-496d-46d3-b6e9-ff92437d8a9e" name="Default Changelist" comment="" />
+      <created>1585986716509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585986716509</updated>
+      <workItem from="1585986717713" duration="18765000" />
+      <workItem from="1586164660266" duration="1613000" />
+      <workItem from="1586167226602" duration="1324000" />
+      <workItem from="1586171590015" duration="6263000" />
+      <workItem from="1586282013159" duration="5515000" />
+      <workItem from="1586372527010" duration="747000" />
+      <workItem from="1586386802540" duration="7191000" />
+      <workItem from="1586503772181" duration="587000" />
+      <workItem from="1586533961355" duration="414000" />
+      <workItem from="1586557953076" duration="5241000" />
+      <workItem from="1586608771536" duration="9049000" />
+      <workItem from="1586642128833" duration="8492000" />
+      <workItem from="1587829270511" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1075" height="145" key="GridCell.Tab.0.bottom" timestamp="1586703775391">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1075" height="145" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586703775391" />
+    <state width="1075" height="145" key="GridCell.Tab.0.center" timestamp="1586703775390">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1075" height="145" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586703775390" />
+    <state width="1075" height="145" key="GridCell.Tab.0.left" timestamp="1586703775389">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1075" height="145" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586703775389" />
+    <state width="1075" height="145" key="GridCell.Tab.0.right" timestamp="1586703775390">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1075" height="145" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586703775390" />
+    <state x="213" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1587829270720">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="213" y="357" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1587829270720" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

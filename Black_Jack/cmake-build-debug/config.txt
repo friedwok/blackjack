@@ -1,0 +1,3 @@
+players_money_amount=1000
+minimum_bet=50
+bet_range=20

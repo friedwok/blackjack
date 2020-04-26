@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Black_Jack_client.dir/main.cpp.o CMakeFiles/Black_Jack_client.dir/client_processor.cpp.o  -o Black_Jack_client 
